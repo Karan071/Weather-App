@@ -1,5 +1,6 @@
 # Weather-App
 Weather app created in PHP
+The user can enter the name of the city and can see the weather details.
 
 # Hosting website
 http://weather-app-karan.free.nf/
